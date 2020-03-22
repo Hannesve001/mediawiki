@@ -1,2 +1,2 @@
-webservers]
+[webservers]
 localhost ansible_connection=local
