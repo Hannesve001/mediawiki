@@ -17,4 +17,4 @@ cd ansible && make install
 fi
 
 # run ansible
-ansible-playbook -i aws site.yml --extra-vars "$@"
+ansible-playbook -i aut site.yml --extra-vars "$@"
